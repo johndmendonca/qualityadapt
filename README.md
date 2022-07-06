@@ -21,7 +21,7 @@ QualityAdapt composes dialogue subqualities using adapter fusion for the task of
 
 ### 1. Download adapters
 
-* Obtain the trained adapter and adapter fusion from AdapterHub or directly from [Drive]().
+* Obtain the trained adapter and adapter fusion from AdapterHub or directly from [Drive](https://drive.google.com/file/d/1zzXGyC72xT2x6n912cv2icoJJMI1brIW/view?usp=sharing).
 
 ### 2. Run prediction code
 
@@ -32,7 +32,7 @@ Here we use an example to illustrate how to reproduce the main results of the pa
 
 ### 1. Download data
 
-* Download the [preprocessed data]() you wish to train and/or evaluate on and insert it somewhere in your workspace.
+* Download the [preprocessed data](https://drive.google.com/file/d/1MQyLWVKRBmKy3eZG0aVEh23hYmyz2heC/view?usp=sharing) you wish to train and/or evaluate on and insert it somewhere in your workspace.
 
 ### 2. Subquality Adapter training
 
@@ -71,5 +71,5 @@ res = "<speaker1>I ' m afraid I can ' t ."
 If you use this work, please consider citing:
 
 ~~~
-
+John Mendonca, Alon Lavie and Isabel Trancoso. 2022. QualityAdapt: an Automatic Dialogue Quality Estimation Framework In Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue, to appear, Edinburgh and Online. Association for Computational Linguistics.
 ~~~
