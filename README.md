@@ -61,7 +61,7 @@ B: Let's go to the new club on West Street .
 A: I'm afraid I can't.
 
 
-ctx = "<speaker1>Gosh , you took all the word right out of my mouth . Let's go out and get crazy tonight . <speaker2>Let's go to the new club on West Street ."
+ctx = "<speaker1>Gosh , you took all the word right out of my mouth . Let's go out and get crazy tonight .</s><s><speaker2>Let's go to the new club on West Street ."
 res = "<speaker1>I ' m afraid I can ' t ."
 ~~~
 
