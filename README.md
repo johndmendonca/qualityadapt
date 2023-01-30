@@ -1,6 +1,6 @@
 # QualityAdapt
 
-This repo implements the Paper [*QualityAdapt: an Automatic Dialogue Quality Estimation Framework*](). 
+This repo implements the Paper [*QualityAdapt: an Automatic Dialogue Quality Estimation Framework*](https://aclanthology.org/2022.sigdial-1.9/). 
 
 QualityAdapt composes dialogue subqualities using adapter fusion for the task of overall dialogue quality estimation. Unlike similar approaches, QualityAdapt only requires a single forward pass on a Language Model to produce predictions for overall quality, thus reducing computational complexity.
 
